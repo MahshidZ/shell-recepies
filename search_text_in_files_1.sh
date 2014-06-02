@@ -14,6 +14,9 @@ clear
 
 find . -name "*.txt" | xargs grep -n "graduated"
 
+# if we use grep only, it does not search recursively
+# -n means print line number
+
 
 
 
