@@ -6,7 +6,7 @@
 clear
 
 git add .
-git commit -m "$1"
+git commit -m "$1" # $1 means the first input argument
 git push -u origin master
 
 
