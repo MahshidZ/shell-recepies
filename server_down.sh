@@ -3,7 +3,10 @@
 # Write a script to ask the user whether the
 # server is working or not. And if it is not
 # working, inform all the connected users on
-# the server
+# the server.
+
+# To run, type chmod +x server_down.sh
+# and run ./server_down.sh
 #-------------------------------------------
 
 clear
